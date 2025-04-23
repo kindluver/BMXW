@@ -75,7 +75,7 @@
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "✨,🫥,☯️",
       "required": false 
     },
     "AUTO_REACT": {
@@ -95,7 +95,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "B.m.b-Xmd~dGchXBLY#1gJYaFdWyEYcwzuVXLOdEa-6qgpAAyLsc6_kUoilba8",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -105,7 +105,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "3",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
